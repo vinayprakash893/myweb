@@ -1,4 +1,4 @@
-FROM tomcat:alphine
+FROM tomcat:alpine
 
 COPY target/myweb*.war /usr/local/tomcat/webapps/myweb.war
 
