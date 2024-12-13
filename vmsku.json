@@ -1,0 +1,17 @@
+{
+  "B4ms": {
+    "East US 2": 91.44,
+    "Central US": 109.69,
+    "Canada Central": 101.66
+  },
+  "B8ms": {
+    "East US 2": 182.69,
+    "Central US": 218.46,
+    "Canada Central": 203.13
+  },
+  "D2as_v5": {
+    "East US 2": 47.27,
+    "Central US": 53.40,
+    "Canada Central": 52.75
+  }
+}
